@@ -1,0 +1,6 @@
+{
+  "name": "小学知识卡牌对战",
+  "description": "一款面向学习者的卡牌对战游戏，通过解答英语国家文化及地道英语常识题目来激活卡牌、击败怪兽，寓教于乐！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
